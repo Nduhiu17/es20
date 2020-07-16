@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Modern Javascript ES20
+
+> Object and array destructuring
+> Custom Array filter,map and reduce functions
+> Merging arrays and objects using spread operator
+> Javascript generators
+> Regular expressions
+
+
 
 ## Available Scripts
 
